@@ -1,0 +1,7 @@
+Simpson Dataset
+
+ 구글 드라이브 (3팀 작업 버전)
+  https://drive.google.com/drive/folders/1zMHbQ_Ujr9Mf3ZmUvg0SGg8z2HoZYSNW?usp=sharing
+
+ Kaggle 원본 데이터셋
+  https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
